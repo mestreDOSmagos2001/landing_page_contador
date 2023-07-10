@@ -1,1 +1,1 @@
-### Uma landing page de exemplo para um contador fictício.
+### Uma landing page institucional de exemplo para um contador fictício.
